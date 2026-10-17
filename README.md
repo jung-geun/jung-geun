@@ -1,4 +1,4 @@
-<img src="./assets/profile-banner.svg" width="100%" alt="jung-geun — Infrastructure to intelligence. Engineering portfolio." />
+<img src="./assets/profile-banner.svg?v=portfolio" width="100%" alt="jung-geun — Infrastructure to intelligence. Engineering portfolio." />
 
 <p align="center"><b>English</b> &nbsp; / &nbsp; <a href="./README.ko.md">한국어</a></p>
 <p align="center"><a href="https://blog.pieroot.xyz"><img src="https://img.shields.io/badge/READ_THE_BLOG-181827?style=for-the-badge&amp;logo=readme&amp;logoColor=FFBDAD" alt="Read the blog" /></a> <a href="https://github.com/openstack-afterglow"><img src="https://img.shields.io/badge/EXPLORE_AFTERGLOW-342947?style=for-the-badge&amp;logo=github&amp;logoColor=FFBDAD" alt="Explore Afterglow" /></a> <a href="https://cloud.dmslab.re.kr"><img src="https://img.shields.io/badge/LIVE_CLOUD-54304A?style=for-the-badge&amp;logo=openstack&amp;logoColor=FFBDAD" alt="Live cloud deployment" /></a></p>
